@@ -1,0 +1,1 @@
+Rock Paper Scissors game implemented in HTML, CSS, and JavaScript. Play against the computer and test your luck with this classic game. Enjoy a simple and interactive user interface, complete with score tracking and vibrant styling. Challenge yourself and have fun with this timeless pastime!
